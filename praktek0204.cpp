@@ -8,5 +8,6 @@ int main (){
 	double jumlahboxP,biayaP,biayaPG,totalB;
 	
 	cout <<"luas rumah 	  :"<<luasrumah<<"m2"<<endl;
+	cout <<"luas 1 box parket :"<<luas1box<<"m2"<<endl;
 	
 }
